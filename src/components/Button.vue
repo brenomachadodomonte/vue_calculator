@@ -1,5 +1,5 @@
 <template>
-  <button class="button" :class="{ double, tiple, operation }">
+  <button class="button" :class="{ double, triple, operation }">
     {{ label }}
   </button>
 </template>
@@ -10,7 +10,7 @@
       label: {},
       operation: { type: Boolean },
       double: { type: Boolean },
-      tiple: { type: Boolean }
+      triple: { type: Boolean }
     }
   }
 </script>
