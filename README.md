@@ -11,10 +11,11 @@ A simple Calculator with Vue
 To run on dev environment run:
 
 ```sh
+npm install -g @vue/cli
 npm install
 npm run serve
 ```
-> The Counter will run on  http://localhost:8080
+> The Calculator will run on  http://localhost:8080
 
 
 ## See more
